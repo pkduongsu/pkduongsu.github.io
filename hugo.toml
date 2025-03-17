@@ -1,4 +1,69 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://pkduongsu.github.io/'
 languageCode = 'en-us'
-title = 'Kim Pham Blog'
+title = "Kim's Blog"
 theme = 'PaperMod'
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+ShowShareButtons = true
+ShowReadingTime = true
+ShowToc = true
+ShowBreadCrumbs = true
+
+[params.homeInfoParams]
+Title = "Welcome👋 "
+Content = "Hey it's me, Kim! This is where I document my learnings📚, share my thoughts🤯, and explore new ideas💡."
+
+[params.assets]
+disableHLJS = true
+disableFingerprinting = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[params.socialIcons]]
+name = "facebook"
+url = "https://www.facebook.com/profile.php?id=100004180219323"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/pkduongsu?tab=repositories"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/kim-pham-271203-kdp/"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/sugarcoolll/"
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 30
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 40
+
+
+
