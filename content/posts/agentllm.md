@@ -10,7 +10,7 @@ ToCOpen = true
 
 In recent statements, NVIDIA CEO Jensen Huang declared that we are entering the era of “agentic AI” - a new generation of AI that can autonomously perform complex, multi-step tasks such as data analysis, decision-making, or even interacting with both digital and physical environments. These AI agents will not stop at being software tools only but are now envisioned to be a new digital workforce that will soon revolutionize industries.
 
-![Image1](/images/image1.png)
+![Image1](/images/agentllm/image1.png)
 _NVIDIA’s vision of AI development_
 
 While it is still a bit too soon to have AIs wash dishes and do laundry for me, it is absolutely fascinating how the reasoning capabilities of recent Large Language Models - LLM have evolved to simulate the process of reasoning, planning, and decision-making of humans with minimal human intervention. These recent advancements opened the capability of AIs to act like our collaborators, rather than just as tools similar to Google Search, which simply gives the information for us to act upon in the last 25 years or so.
@@ -49,7 +49,7 @@ In order to understand this, we start with the basic unit of Language Models: **
 
 Tokenization allows breaking words into meaningful content while reducing the size of the model’s vocabulary for efficiency. English vocabulary contains around 600,000 words, but LLM, in this case, Llama2, has a vocabulary of around 32,000 words only, as sub-words can be combined and reused (do-ing, work-ing for instance).
 
-![Image2](/images/image2.png)
+![Image2](/images/agentllm/image2.png)
 _How GPT tokenizes a phrase (Source: AI Engineering - Chip Huyen)_
 
 **By definition, A language model contains statistical information about 1 or more languages, with the objective of predicting the next token, given a sequence of previous tokens.**
@@ -72,7 +72,7 @@ Transformer
 
 Most models are built on the **Transformer** architecture:
 
-![Image3](/images/image3.png)
+![Image3](/images/agentllm/image3.png)
 _Transformer architecture_
 
 There are 3 types of transformers:
@@ -144,7 +144,7 @@ A fundamental problem with the traditional learning method in supervised learnin
 *   This means models can learn from text sequences without any labeling, because text sequences are everywhere around us.
     
 
-![Image4](/images/image4.png)
+![Image4](/images/agentllm/image4.png)
 _Example of self-supervision training labels_
 
 Getting desired responses from models

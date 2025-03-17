@@ -29,19 +29,5 @@
       <guid>http://localhost:1313/tags/transformers/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/tags/test/</link>
-      <pubDate>Sun, 09 Mar 2025 17:46:14 +1100</pubDate>
-      <guid>http://localhost:1313/tags/test/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Testing</title>
-      <link>http://localhost:1313/tags/testing/</link>
-      <pubDate>Sun, 09 Mar 2025 17:46:14 +1100</pubDate>
-      <guid>http://localhost:1313/tags/testing/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

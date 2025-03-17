@@ -166,7 +166,7 @@
 </div>
 
   <div class="post-content"><p>In recent statements, NVIDIA CEO Jensen Huang declared that we are entering the era of “agentic AI” - a new generation of AI that can autonomously perform complex, multi-step tasks such as data analysis, decision-making, or even interacting with both digital and physical environments. These AI agents will not stop at being software tools only but are now envisioned to be a new digital workforce that will soon revolutionize industries.</p>
-<p><img alt="Image1" loading="lazy" src="/images/image1.png">
+<p><img alt="Image1" loading="lazy" src="/images/agentllm/image1.png">
 <em>NVIDIA’s vision of AI development</em></p>
 <p>While it is still a bit too soon to have AIs wash dishes and do laundry for me, it is absolutely fascinating how the reasoning capabilities of recent Large Language Models - LLM have evolved to simulate the process of reasoning, planning, and decision-making of humans with minimal human intervention. These recent advancements opened the capability of AIs to act like our collaborators, rather than just as tools similar to Google Search, which simply gives the information for us to act upon in the last 25 years or so.</p>
 <p>The possibilities just seemed endless.</p>
@@ -185,7 +185,7 @@
 <p>But what exactly is a Large Language Model, and how can this power AI Agents to extract necessary information, reason, and learn?</p>
 <p>In order to understand this, we start with the basic unit of Language Models: <strong>tokens</strong>, which can be a character, a word, or a sub-part of a word (-tion, -ing for example). For each model, developers decide how the original text can be broken down into tokens, therefore forming the set of tokens that the model can work with (or, a model’s <strong>vocabulary</strong>). This process is called <strong>tokenization</strong>.</p>
 <p>Tokenization allows breaking words into meaningful content while reducing the size of the model’s vocabulary for efficiency. English vocabulary contains around 600,000 words, but LLM, in this case, Llama2, has a vocabulary of around 32,000 words only, as sub-words can be combined and reused (do-ing, work-ing for instance).</p>
-<p><img alt="Image2" loading="lazy" src="/images/image2.png">
+<p><img alt="Image2" loading="lazy" src="/images/agentllm/image2.png">
 <em>How GPT tokenizes a phrase (Source: AI Engineering - Chip Huyen)</em></p>
 <p><strong>By definition, A language model contains statistical information about 1 or more languages, with the objective of predicting the next token, given a sequence of previous tokens.</strong></p>
 <p>There are <strong>two main types of language models</strong>:</p>
@@ -202,7 +202,7 @@
 <p>The <strong>model size</strong> is measured by the number of parameters, with parameters being variables within a Machine Learning model updated through the training process. Generally, more parameters result in a greater capacity for learning desired behaviors, and therefore, larger models have a greater capacity to learn and reason, which in turn requires more training data to maximize performance.</p>
 <h2 id="transformer">Transformer<a hidden class="anchor" aria-hidden="true" href="#transformer">#</a></h2>
 <p>Most models are built on the <strong>Transformer</strong> architecture:</p>
-<p><img alt="Image3" loading="lazy" src="/images/image3.png">
+<p><img alt="Image3" loading="lazy" src="/images/agentllm/image3.png">
 <em>Transformer architecture</em></p>
 <p>There are 3 types of transformers:</p>
 <ul>
@@ -284,7 +284,7 @@
 <p>This means models can learn from text sequences without any labeling, because text sequences are everywhere around us.</p>
 </li>
 </ul>
-<p><img alt="Image4" loading="lazy" src="/images/image4.png">
+<p><img alt="Image4" loading="lazy" src="/images/agentllm/image4.png">
 <em>Example of self-supervision training labels</em></p>
 <h2 id="getting-desired-responses-from-models">Getting desired responses from models<a hidden class="anchor" aria-hidden="true" href="#getting-desired-responses-from-models">#</a></h2>
 <p>There are different approaches to get the desired responses from models:</p>

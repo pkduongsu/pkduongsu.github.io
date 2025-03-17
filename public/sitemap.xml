@@ -35,21 +35,6 @@
     <loc>http://localhost:1313/posts/agentllm/</loc>
     <lastmod>2025-03-18T07:33:53+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
-    <lastmod>2025-03-09T17:46:14+11:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/test/</loc>
-    <lastmod>2025-03-09T17:46:14+11:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/testing/</loc>
-    <lastmod>2025-03-09T17:46:14+11:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/testing/</loc>
-    <lastmod>2025-03-09T17:46:14+11:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/testing/</loc>
-    <lastmod>2025-03-09T17:46:14+11:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
