@@ -12,6 +12,8 @@ ShowReadingTime = true
 ShowToc = true
 ShowBreadCrumbs = true
 
+
+
 [params.homeInfoParams]
 Title = "Welcome👋 "
 Content = "Hey it's me, Kim! This is where I document my learnings📚, share my thoughts🤯, and explore new ideas💡."
