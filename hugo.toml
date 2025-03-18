@@ -12,8 +12,6 @@ ShowReadingTime = true
 ShowToc = true
 ShowBreadCrumbs = true
 
-
-
 [params.homeInfoParams]
 Title = "Welcome👋 "
 Content = "Hey it's me, Kim! This is where I document my learnings📚, share my thoughts🤯, and explore new ideas💡."
@@ -21,6 +19,10 @@ Content = "Hey it's me, Kim! This is where I document my learnings📚, share my
 [params.assets]
 disableHLJS = true
 disableFingerprinting = true
+favicon = "/images/weblogo/favicon.ico"
+favicon16x16 = "/images/weblogo/favicon-16x16.png"
+favicon32x32 = "/images/weblogo/favicon-32x32.png"
+apple_touch_icon = "/images/weblogo/apple-touch-icon.png"
 
 [markup]
   [markup.goldmark]
