@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/agents/</loc>
+    <loc>https://pkduongsu.github.io/tags/agents/</loc>
     <lastmod>2025-03-18T07:33:53+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ai/</loc>
+    <loc>https://pkduongsu.github.io/categories/ai/</loc>
     <lastmod>2025-03-18T07:33:53+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://pkduongsu.github.io/categories/</loc>
     <lastmod>2025-03-18T07:33:53+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://pkduongsu.github.io/</loc>
     <lastmod>2025-03-18T07:33:53+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/llm/</loc>
+    <loc>https://pkduongsu.github.io/tags/llm/</loc>
     <lastmod>2025-03-18T07:33:53+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://pkduongsu.github.io/posts/</loc>
     <lastmod>2025-03-18T07:33:53+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/self-study/</loc>
+    <loc>https://pkduongsu.github.io/categories/self-study/</loc>
     <lastmod>2025-03-18T07:33:53+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://pkduongsu.github.io/tags/</loc>
     <lastmod>2025-03-18T07:33:53+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/tech/</loc>
+    <loc>https://pkduongsu.github.io/categories/tech/</loc>
     <lastmod>2025-03-18T07:33:53+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/transformers/</loc>
+    <loc>https://pkduongsu.github.io/tags/transformers/</loc>
     <lastmod>2025-03-18T07:33:53+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/agentllm/</loc>
+    <loc>https://pkduongsu.github.io/posts/agentllm/</loc>
     <lastmod>2025-03-18T07:33:53+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://pkduongsu.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://pkduongsu.github.io/search/</loc>
   </url>
 </urlset>
