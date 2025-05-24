@@ -3,9 +3,6 @@ date = '2025-05-25T06:23:42+10:00'
 title = 'Model Context Protocol (and some learning reflections along the way)'
 +++
 
-Reflections
-==========
-
 The past few weeks have been a very interesting learning curve for me, trying to dive deeper into the Agentic AI world.
 
 I signed up for the Huggingface AI Agent Course from the beginning, super excited to get a grip on what was announced to be the greatest trend in 2025, to learn how to create my own agents, and to uncover the RAG hype around it.
