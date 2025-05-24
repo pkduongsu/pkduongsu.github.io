@@ -6,8 +6,18 @@
     <description>Recent content on Kim&#39;s Blog</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Mar 2025 07:33:53 +1100</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 06:23:42 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Model Context Protocol (and some learning reflections along the way)</title>
+      <link>http://localhost:1313/posts/mcp/</link>
+      <pubDate>Sun, 25 May 2025 06:23:42 +1000</pubDate>
+      <guid>http://localhost:1313/posts/mcp/</guid>
+      <description>&lt;h1 id=&#34;reflections&#34;&gt;Reflections&lt;/h1&gt;
+&lt;p&gt;The past few weeks have been a very interesting learning curve for me, trying to dive deeper into the Agentic AI world.&lt;/p&gt;
+&lt;p&gt;I signed up for the Huggingface AI Agent Course from the beginning, super excited to get a grip on what was announced to be the greatest trend in 2025, to learn how to create my own agents, and to uncover the RAG hype around it.&lt;/p&gt;
+&lt;p&gt;I remember being so excited learning weekly, waiting for the weekly course release and complete the assignments, as if I&amp;rsquo;m in school again. And in the end, I did managed to create a general AI assistant and evaluated it on a proper AI benchmark for its capabilities.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Understanding LLM and AI Agents</title>
       <link>http://localhost:1313/posts/agentllm/</link>
