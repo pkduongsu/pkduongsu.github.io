@@ -1,6 +1,11 @@
 +++
 date = '2025-05-25T06:23:42+10:00'
 title = 'Model Context Protocol (and some learning reflections along the way)'
+tags = ["MCP", "LLM"]
+categories = ["AI", "Self-Study", "Tech"]
+author = "Kim Duong Pham"
+ToCOpen = true
+draft = false
 +++
 
 The past few weeks have been a very interesting learning curve for me, trying to dive deeper into the Agentic AI world.
