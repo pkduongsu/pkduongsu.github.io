@@ -6,8 +6,27 @@
     <description>Recent content in Tech on Kim&#39;s Blog</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Mar 2025 07:33:53 +1100</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 16:34:54 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building P&amp;L PowerBI dashboard</title>
+      <link>http://localhost:1313/posts/pl_pbi/</link>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
+      <guid>http://localhost:1313/posts/pl_pbi/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Image1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/pl_pbi/image1.png&#34;&gt;
+&lt;em&gt;Executive Summary Page&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Recently, I have grown an interest in getting deeper into the finance world, so I thought it would be a good idea to acquire the knowledge by connecting it with my day-to-day work with data by building a Power BI finance report from scratch for a weekend project.&lt;/p&gt;
+&lt;p&gt;The report uses the Microsoft Financial Sample dataset, covering a multi-region company’s revenue, costs, and expenses over the period from September 2013 to December 2014.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Model Context Protocol (and some learning reflections along the way)</title>
+      <link>http://localhost:1313/posts/mcp/</link>
+      <pubDate>Sun, 25 May 2025 06:23:42 +1000</pubDate>
+      <guid>http://localhost:1313/posts/mcp/</guid>
+      <description>&lt;p&gt;The past few weeks have been a very interesting learning curve for me, trying to dive deeper into the Agentic AI world.&lt;/p&gt;
+&lt;p&gt;I signed up for the Huggingface AI Agent Course from the beginning, super excited to get a grip on what was announced to be the greatest trend in 2025, to learn how to create my own agents, and to uncover the RAG hype around it.&lt;/p&gt;
+&lt;p&gt;I remember being so excited learning weekly, waiting for the weekly course release and complete the assignments, as if I&amp;rsquo;m in school again. And in the end, I did managed to create a general AI assistant and evaluated it on a proper AI benchmark for its capabilities.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Understanding LLM and AI Agents</title>
       <link>http://localhost:1313/posts/agentllm/</link>

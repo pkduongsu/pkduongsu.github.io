@@ -6,26 +6,47 @@
     <description>Recent content in Categories on Kim&#39;s Blog</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Mar 2025 07:33:53 +1100</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 16:34:54 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>http://localhost:1313/categories/ai/</link>
-      <pubDate>Tue, 18 Mar 2025 07:33:53 +1100</pubDate>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
       <guid>http://localhost:1313/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Visualization</title>
+      <link>http://localhost:1313/categories/data-visualization/</link>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
+      <guid>http://localhost:1313/categories/data-visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/categories/finance/</link>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
+      <guid>http://localhost:1313/categories/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PowerBI</title>
+      <link>http://localhost:1313/categories/powerbi/</link>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
+      <guid>http://localhost:1313/categories/powerbi/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-Study</title>
       <link>http://localhost:1313/categories/self-study/</link>
-      <pubDate>Tue, 18 Mar 2025 07:33:53 +1100</pubDate>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
       <guid>http://localhost:1313/categories/self-study/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
       <link>http://localhost:1313/categories/tech/</link>
-      <pubDate>Tue, 18 Mar 2025 07:33:53 +1100</pubDate>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
       <guid>http://localhost:1313/categories/tech/</guid>
       <description></description>
     </item>

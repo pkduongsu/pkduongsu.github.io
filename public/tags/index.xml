@@ -6,27 +6,55 @@
     <description>Recent content in Tags on Kim&#39;s Blog</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Mar 2025 07:33:53 +1100</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 16:34:54 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agents</title>
       <link>http://localhost:1313/tags/agents/</link>
-      <pubDate>Tue, 18 Mar 2025 07:33:53 +1100</pubDate>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
       <guid>http://localhost:1313/tags/agents/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Visualization</title>
+      <link>http://localhost:1313/tags/data-visualization/</link>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
+      <guid>http://localhost:1313/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/tags/finance/</link>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
+      <guid>http://localhost:1313/tags/finance/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
       <link>http://localhost:1313/tags/llm/</link>
-      <pubDate>Tue, 18 Mar 2025 07:33:53 +1100</pubDate>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
       <guid>http://localhost:1313/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PowerBI</title>
+      <link>http://localhost:1313/tags/powerbi/</link>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
+      <guid>http://localhost:1313/tags/powerbi/</guid>
       <description></description>
     </item>
     <item>
       <title>Transformers</title>
       <link>http://localhost:1313/tags/transformers/</link>
-      <pubDate>Tue, 18 Mar 2025 07:33:53 +1100</pubDate>
+      <pubDate>Sun, 17 May 2026 16:34:54 +1000</pubDate>
       <guid>http://localhost:1313/tags/transformers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MCP</title>
+      <link>http://localhost:1313/tags/mcp/</link>
+      <pubDate>Sun, 25 May 2025 06:23:42 +1000</pubDate>
+      <guid>http://localhost:1313/tags/mcp/</guid>
       <description></description>
     </item>
   </channel>
